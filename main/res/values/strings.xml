@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">the guardian</string>
+    <string name="no_internet">no internet connection!</string>
+    <string name="no_news"> No News updates available, please reload the app or check after some time</string>
+</resources>
